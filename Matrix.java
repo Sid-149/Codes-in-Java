@@ -86,9 +86,8 @@ int[][] e = new int[n][n];
    }
 }
 
-
-OUTPUT:
 /*
+OUTPUT:
 javac Matrix.java
 
 java Matrix
