@@ -22,6 +22,7 @@ class MultiCatch
 	}
 }
 
+/*
 OUTPUT:
 javac MultiCatch.java
 
@@ -29,3 +30,4 @@ java MultiCatch
 a=0
 Divide by 0: java.lang.ArithmeticException: / by zero
 After try/catch blocks.
+*/
