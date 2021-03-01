@@ -37,9 +37,9 @@ class MyClass
 }
 
 
-
-OUTPUT:
 /*
+OUTPUT:
+
 javac MyClass.java
 java MyClass
 Square is 25.0
